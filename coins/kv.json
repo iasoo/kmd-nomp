@@ -1,6 +1,6 @@
 {
-    "name": “kv”,
-    "symbol": “kv”,
+    "name": "kv",
+    "symbol": "kv",
     "algorithm": "equihash",
     "txfee": 0.00005
 }

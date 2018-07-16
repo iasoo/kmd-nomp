@@ -1,6 +1,6 @@
 {
-    "name": “jumblr”,
-    "symbol": “jumblr”,
+    "name": "jumblr",
+    "symbol": "jumblr",
     "algorithm": "equihash",
     "txfee": 0.00005
 }

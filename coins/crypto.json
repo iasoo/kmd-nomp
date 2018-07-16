@@ -1,6 +1,6 @@
 {
-    "name": “crypto”,
-    "symbol": “crypto”,
+    "name": "crypto",
+    "symbol": "crypto",
     "algorithm": "equihash",
     "txfee": 0.00005
 }

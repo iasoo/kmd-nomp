@@ -1,6 +1,6 @@
 {
-    "name": “dex”,
-    "symbol": “dex”,
+    "name": "dex",
+    "symbol": "dex",
     "algorithm": "equihash",
     "txfee": 0.00005
 }

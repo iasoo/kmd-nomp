@@ -1,6 +1,6 @@
 {
-    "name": “bet”,
-    "symbol": “bet”,
+    "name": "bet",
+    "symbol": "bet",
     "algorithm": "equihash",
     "txfee": 0.00005
 }

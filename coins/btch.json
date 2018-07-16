@@ -1,6 +1,6 @@
 {
-    "name": “btch”,
-    "symbol": “btch”,
+    "name": "btch",
+    "symbol": "btch",
     "algorithm": "equihash",
     "txfee": 0.00005
 }

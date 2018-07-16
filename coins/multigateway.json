@@ -1,6 +1,6 @@
 {
-    "name": “multigateway”,
-    "symbol": “mgw”,
+    "name": "multigateway",
+    "symbol": "mgw",
     "algorithm": "equihash",
     "txfee": 0.00005
 }

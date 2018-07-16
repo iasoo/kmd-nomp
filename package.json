@@ -1,7 +1,7 @@
 {
-    "name": “kmd-nomp",
-    "version": “0.0.5”,
-    "description": “Komodo (Equihash) stratum mining pool based on NOMP",
+    "name": "kmd-nomp",
+    "version": "0.0.5",
+    "description": "Komodo (Equihash) stratum mining pool based on NOMP",
     "keywords": [
         "stratum",
         "mining",
@@ -10,18 +10,18 @@
         "poolserver",
         "zclassic",
         "zcash",
-        "equihash”,
-	“komodo”,
-	“supernet”
+        "equihash",
+		"komodo",
+		"supernet"
     ],
     "homepage": "https://github.com/komodoservices/kmd-nomp",
     "bugs": {
         "url": "https://github.com/komodoservices/kmd-nomp/issues"
     },
     "license": "MIT",
-    "author": “Komodo Services”,
+    "author": "Komodo Services",
     "contributors": [
-	“Joshua Yabut”
+		"Joshua Yabut",
         "aayanl",
         "sennevb",
         "Matthew Little",

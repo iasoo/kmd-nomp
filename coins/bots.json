@@ -1,6 +1,6 @@
 {
-    "name": “bots”,
-    "symbol": “bots”,
+    "name": "bots",
+    "symbol": "bots",
     "algorithm": "equihash",
     "txfee": 0.00005
 }

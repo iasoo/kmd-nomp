@@ -1,6 +1,6 @@
 {
-    "name": “pangea”,
-    "symbol": “pangea”,
+    "name": "pangea",
+    "symbol": "pangea",
     "algorithm": "equihash",
     "txfee": 0.00005
 }
