@@ -3,13 +3,13 @@
     "coin": "komodo.json",
 
     "address": "",
-    "_comment_address": "pools komodo address; ex, RSXGTHQSqwcMw1vowKfEE7sQ8fAmv1tmso",
+    "_comment_address": "pools komodo address; ex, RCBAk2iW2A5GGQQ6u1dtcK1ZGRr8q9cTRR",
 
     "zAddress": "",
     "_comment_zAddress": "shielding not required in komodo, not used",
 
     "tAddress": "",
-    "_comment_tAddress": "set to same as pools komodo address; ex, RSXGTHQSqwcMw1vowKfEE7sQ8fAmv1tmso",
+    "_comment_tAddress": "set to same as pools komodo address; ex, RCBAk2iW2A5GGQQ6u1dtcK1ZGRr8q9cTRR",
 
     "walletInterval": 1,
     "_comment_walletInterval": "Used to cache komodo coin stats, shielding not performed.",
@@ -36,14 +36,14 @@
         "maxBlocksPerPayment": 3,
         "daemon": {
             "host": "127.0.0.1",
-            "port": 8232,
-            "user": "username",
-            "password": "password"
+            "port": 7771,
+            "user": “rpcuser",
+            "password": “rpcpassword"
         }
     },
 
     "ports": {
-        "3857": {
+        “3333”: {
             "tls":false,
             "diff": 0.05,
             "varDiff": {
@@ -59,16 +59,16 @@
     "daemons": [
         {
             "host": "127.0.0.1",
-            "port": 8232,
-            "user": "username",
-            "password": "password"
+            "port": 7771,
+            "user": “rpcuser",
+            "password": “rpcpassword"
         }
     ],
 
     "p2p": {
         "enabled": false,
         "host": "127.0.0.1",
-        "port": 19333,
+        "port": 7770,
         "disableTransactions": true
     },
 

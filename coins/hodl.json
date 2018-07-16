@@ -1,0 +1,6 @@
+{
+    "name": “hodl”,
+    "symbol": “hodl”,
+    "algorithm": "equihash",
+    "txfee": 0.00005
+}
