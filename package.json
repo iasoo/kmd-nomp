@@ -8,8 +8,8 @@
         "pool",
         "server",
         "poolserver",
-        "zclassic",
-        "zcash",
+        "kmd-nomp",
+        "z-nomp",
         "equihash",
 		"komodo",
 		"supernet"
@@ -34,7 +34,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/komodoservices/z-nomp.git"
+        "url": "https://github.com/komodoservices/kmd-nomp.git"
     },
     "dependencies": {
         "async": "2.3.0",
