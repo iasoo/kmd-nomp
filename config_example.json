@@ -34,7 +34,7 @@
         "enabled": true,
         "host": "0.0.0.0",
         "port": 8080,
-        "stratumHost": “127.0.0.1”,
+        "stratumHost": "127.0.0.1",
         "stats": {
             "updateInterval": 30,
             "historicalRetention": 14400,
