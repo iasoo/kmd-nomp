@@ -68,10 +68,10 @@
     }
 
     .miningOption:first-child{
-        background-color: #0eafc7;
+        background-color: #316464;
     }
     .miningOption:last-child{
-        background-color: #b064e1;
+        background-color: #FAA900;
     }
     .miningOptionNum{
         font-size: 6em;
@@ -128,7 +128,7 @@
         left: 50%;
         margin-left: -375px;
         position: absolute;
-        background-color: #f06350;
+        background-color: #3d3d3d;
     }
     #coinInfo .coinInfoName{
         text-transform: capitalize;
@@ -252,7 +252,7 @@
 
 <div id="coinInfo" class="hidden">
     <a href="#" id="coinInfoClose">×</a>
-    <div><span class="coinInfoName"></span> Configuration:</div>
+    <div><span class="coinInfoName"></span> Mining Config:</div>
     <div id="coinInfoRows">
         <div id="coinInfoRowKeys">
             <div>Username:</div>
@@ -312,7 +312,7 @@
 
     $('#nompAppDownload').click(function(event){
         event.preventDefault();
-        alert('Google Equihash miner to find mining software for your computer.');
+        alert('Google "equihash miner" to find mining software for your computer.');
         return false;
     });
 </script>
