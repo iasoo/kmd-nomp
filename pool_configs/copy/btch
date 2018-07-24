@@ -1,0 +1,5 @@
+cd
+
+cd kmd-nomp/pool_configs
+
+cp btch_example.json btch.json

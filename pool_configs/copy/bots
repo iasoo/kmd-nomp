@@ -1,0 +1,5 @@
+cd
+
+cd kmd-nomp/pool_configs
+
+cp bots_example.json bots.json

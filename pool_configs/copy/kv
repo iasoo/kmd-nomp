@@ -1,0 +1,5 @@
+cd
+
+cd kmd-nomp/pool_configs
+
+cp kv_example.json kv.json

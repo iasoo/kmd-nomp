@@ -1,0 +1,5 @@
+cd
+
+cd kmd-nomp/pool_configs
+
+cp multigateway_example.json multigateway.json
