@@ -1,0 +1,86 @@
+{
+    "enabled":false,
+    "coin": "dsec.json",
+
+    "address": "",
+    "_comment_address": "pools dsec address; ex, RCBAk2iW2A5GGQQ6u1dtcK1ZGRr8q9cTRR",
+
+    "zAddress": "",
+    "_comment_zAddress": "shielding not required in dsec, not used",
+
+    "tAddress": "",
+    "_comment_tAddress": "set to same as pools dsec address; ex, RCBAk2iW2A5GGQQ6u1dtcK1ZGRr8q9cTRR",
+
+    "walletInterval": 1,
+    "_comment_walletInterval": "Used to cache dsec coin stats, shielding not performed.",
+
+    "rewardRecipients": {
+        "": 1.0
+    },
+
+    "tlsOptions": {
+        "enabled": false,
+        "serverKey":"",
+        "serverCert":"",
+        "ca":""
+    },
+
+    "paymentProcessing": {
+	"minConf": 10,
+        "enabled": true,
+        "paymentMode": "prop",
+        "_comment_paymentMode":"prop, pplnt",
+        "paymentInterval": 57,
+        "_comment_paymentInterval": "Interval in seconds to check and perform payments.",
+        "minimumPayment": 0.1,
+        "maxBlocksPerPayment": 3,
+        "daemon": {
+            "host": "127.0.0.1",
+            "port": 11557,
+            "user": "rpcuser",
+            "password": "rpcpassword"
+        }
+    },
+
+    "ports": {
+        "3583": {
+            "tls":false,
+            "diff": 0.05,
+            "varDiff": {
+                "minDiff": 0.04,
+                "maxDiff": 16,
+                "targetTime": 15,
+                "retargetTime": 60,
+                "variancePercent": 30
+            }
+        }
+    },
+
+    "daemons": [
+        {
+            "host": "127.0.0.1",
+            "port": 11557,
+            "user": "rpcuser",
+            "password": "rpcpassword"
+        }
+    ],
+
+    "p2p": {
+        "enabled": false,
+        "host": "127.0.0.1",
+        "port": 11556,
+        "disableTransactions": true
+    },
+
+    "mposMode": {
+        "enabled": false,
+        "host": "127.0.0.1",
+        "port": 3306,
+        "user": "me",
+        "password": "mypass",
+        "database": "dsec",
+        "checkPassword": true,
+        "autoCreateWorker": false
+    }
+
+}
