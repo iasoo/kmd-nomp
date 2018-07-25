@@ -1,0 +1,6 @@
+{
+    "name": "sec",
+    "symbol": "sec",
+    "algorithm": "equihash",
+    "txfee": 0.00005
+}

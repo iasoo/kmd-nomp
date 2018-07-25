@@ -1,0 +1,6 @@
+{
+    "name": "eql",
+    "symbol": "eql",
+    "algorithm": "equihash",
+    "txfee": 0.00005
+}

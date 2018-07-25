@@ -1,0 +1,6 @@
+{
+    "name": "oot",
+    "symbol": "oot",
+    "algorithm": "equihash",
+    "txfee": 0.00005
+}

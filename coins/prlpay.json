@@ -1,0 +1,6 @@
+{
+    "name": "prlpay",
+    "symbol": "prlpay",
+    "algorithm": "equihash",
+    "txfee": 0.00005
+}

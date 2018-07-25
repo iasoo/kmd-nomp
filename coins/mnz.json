@@ -1,0 +1,6 @@
+{
+    "name": "mnz",
+    "symbol": "mnz",
+    "algorithm": "equihash",
+    "txfee": 0.00005
+}
