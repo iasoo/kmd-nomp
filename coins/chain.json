@@ -1,0 +1,6 @@
+{
+    "name": "chain",
+    "symbol": "chain",
+    "algorithm": "equihash",
+    "txfee": 0.00005
+}

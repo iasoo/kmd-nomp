@@ -1,0 +1,6 @@
+{
+    "name": "coqui",
+    "symbol": "coqui",
+    "algorithm": "equihash",
+    "txfee": 0.00005
+}

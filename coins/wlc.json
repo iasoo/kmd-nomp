@@ -1,0 +1,6 @@
+{
+    "name": "wlc",
+    "symbol": "wlc",
+    "algorithm": "equihash",
+    "txfee": 0.00005
+}

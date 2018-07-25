@@ -1,0 +1,6 @@
+{
+    "name": "dsec",
+    "symbol": "dsec",
+    "algorithm": "equihash",
+    "txfee": 0.00005
+}
