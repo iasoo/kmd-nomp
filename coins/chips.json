@@ -1,0 +1,6 @@
+{
+    "name": "chips",
+    "symbol": "CHIPS",
+    "algorithm": "sha256",
+    "txfee": 0.00005
+}
