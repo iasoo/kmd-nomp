@@ -63,3 +63,5 @@ cd kmd-nomp/pool_configs/copy
 ./rfox
 
 ./sec
+
+./chips
