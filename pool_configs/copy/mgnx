@@ -1,0 +1,5 @@
+cd
+
+cd kmd-nomp/pool_configs
+
+cp mgnx_example.json mgnx.json

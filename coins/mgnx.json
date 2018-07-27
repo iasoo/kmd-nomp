@@ -1,6 +1,6 @@
 {
-    "name": "hodl",
-    "symbol": "hodl",
+    "name": "mgnx",
+    "symbol": "mgnx",
     "algorithm": "equihash",
     "txfee": 0.0001
 }
