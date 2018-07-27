@@ -1,18 +1,18 @@
 {
     "enabled":false,
-    "coin": "chips.json",
+    "coin": "mgnx.json",
 
     "address": "",
-    "_comment_address": "pools chips address; ex, RCBAk2iW2A5GGQQ6u1dtcK1ZGRr8q9cTRR",
+    "_comment_address": "pools mgnx address; ex, RCBAk2iW2A5GGQQ6u1dtcK1ZGRr8q9cTRR",
 
     "zAddress": "",
-    "_comment_zAddress": "shielding not required in chips, not used",
+    "_comment_zAddress": "shielding not required in mgnx, not used",
 
     "tAddress": "",
-    "_comment_tAddress": "set to same as pools chips address; ex, RCBAk2iW2A5GGQQ6u1dtcK1ZGRr8q9cTRR",
+    "_comment_tAddress": "set to same as pools mgnx address; ex, RCBAk2iW2A5GGQQ6u1dtcK1ZGRr8q9cTRR",
 
     "walletInterval": 1,
-    "_comment_walletInterval": "Used to cache chips coin stats, shielding not performed.",
+    "_comment_walletInterval": "Used to cache mgnx coin stats, shielding not performed.",
 
     "rewardRecipients": {
         "": 1.0
@@ -36,14 +36,14 @@
         "maxBlocksPerPayment": 3,
         "daemon": {
             "host": "127.0.0.1",
-            "port": 57771,
+            "port": 31089,
             "user": "rpcuser",
             "password": "rpcpassword"
         }
     },
 
     "ports": {
-        "3323": {
+        "3643": {
             "tls":false,
             "diff": 0.05,
             "varDiff": {
@@ -59,7 +59,7 @@
     "daemons": [
         {
             "host": "127.0.0.1",
-            "port": 57771,
+            "port": 31089,
             "user": "rpcuser",
             "password": "rpcpassword"
         }
@@ -68,7 +68,7 @@
     "p2p": {
         "enabled": false,
         "host": "127.0.0.1",
-        "port": 57770,
+        "port": 31088,
         "disableTransactions": true
     },
 
@@ -78,7 +78,7 @@
         "port": 3306,
         "user": "me",
         "password": "mypass",
-        "database": "chips",
+        "database": "mgnx",
         "checkPassword": true,
         "autoCreateWorker": false
     }

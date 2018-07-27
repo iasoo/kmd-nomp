@@ -1,5 +1,0 @@
-cd
-
-cd kmd-nomp/pool_configs
-
-cp chips_example.json chips.json

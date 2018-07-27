@@ -2,5 +2,5 @@
     "name": "mesh",
     "symbol": "mesh",
     "algorithm": "equihash",
-    "txfee": 0.00005
+    "txfee": 0.0001
 }
