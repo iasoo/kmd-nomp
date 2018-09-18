@@ -52,7 +52,7 @@
         "nonce": "1.0.4",
         "redis": "2.7.1",
         "request": "2.81.0",
-        "stratum-pool": "git+https://github.com/komodoservices/node-stratum-pool.git#02fbca6477dbb2e1d0094b61a47b84f40fd9493a"
+        "stratum-pool": "git+https://github.com/deckerSU/node-stratum-pool.git"
     },
     "engines": {
         "node": ">=0.10"
