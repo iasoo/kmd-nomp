@@ -2,5 +2,6 @@
     "name": "glxt",
     "symbol": "glxt",
     "algorithm": "equihash",
-    "txfee": 0.0001
+    "txfee": 0.0001,
+    "burnFees": true
 }

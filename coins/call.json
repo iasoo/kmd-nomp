@@ -1,6 +1,6 @@
 {
-    "name": "jumblr",
-    "symbol": "jumblr",
+    "name": "call",
+    "symbol": "CALL",
     "algorithm": "equihash",
     "txfee": 0.0001,
     "burnFees": true
