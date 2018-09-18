@@ -2,5 +2,6 @@
     "name": "ceal",
     "symbol": "ceal",
     "algorithm": "equihash",
-    "txfee": 0.0001
+    "txfee": 0.0001,
+    "burnFees": true
 }

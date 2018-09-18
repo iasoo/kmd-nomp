@@ -2,5 +2,6 @@
     "name": "multigateway",
     "symbol": "mgw",
     "algorithm": "equihash",
-    "txfee": 0.0001
+    "txfee": 0.0001,
+    "burnFees": true
 }

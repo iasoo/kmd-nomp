@@ -1,6 +1,6 @@
 {
-    "name": "jumblr",
-    "symbol": "jumblr",
+    "name": "ccl",
+    "symbol": "ccl",
     "algorithm": "equihash",
     "txfee": 0.0001,
     "burnFees": true
