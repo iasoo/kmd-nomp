@@ -12,8 +12,8 @@
         "z-nomp",
         "equihash",
 	"komodo",
-	"supernet"
-	"assetchains"
+	"supernet",
+	"assetchains",
 	"veruscoin"
     ],
     "homepage": "https://github.com/komodoservices/kmd-nomp",
